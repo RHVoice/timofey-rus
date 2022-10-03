@@ -5,7 +5,7 @@ This voice is distributed under [the Creative Commons Attribution-NonCommercial-
 * Artem Plaksin AKA maniyax — general leadership
 * Sergey Parshakov AKA Electrik — Editing of speaker recordings, sound processing and voice training
 * Zvonimir stanecic AKA 9a5dsz — package preparation
-* Speaker: Tatiana Kruk (host on "Tiflo Info")
+* Speaker: Timofey Tuev (voice actor)
 
 ## Contact us ##
 * E-mail: [rhvoice@tiflo.org](mailto:rhvoice@tiflo.org)
